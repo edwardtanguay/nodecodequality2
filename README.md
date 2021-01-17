@@ -1,6 +1,6 @@
 # nodecodequality2
 
-This is a small project experimenting with setting up ESLint.
+This is a small project to demonstrate ESLint setup and configuration.
 
 ## How to use
 
